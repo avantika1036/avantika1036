@@ -73,6 +73,17 @@
       <br>
       <img src="https://img.shields.io/badge/Accuracy-92%25-success?style=flat-square">
     </td>
+    <td align="center" style="background:#FFF7F0;border-radius:16px;padding:10px 8px;">
+      <a href="https://github.com/avantika1036/AI-Exam-Evaluator" target="_blank"><img src="https://img.icons8.com/?size=70&id=9inONWn9EvfI&format=png&color=000000"/></a>
+      <br>
+      <b><a href="https://github.com/avantika1036/AI-Exam-Evaluator" target="_blank">EduVal 📗</a></b>
+      <br>
+      <i>AI-Exam-Evaluator</i>
+      <br>
+      <sub>Python · Streamlit · Tesseract · OpenAI API</sub>
+      <br>
+      <img src="https://img.shields.io/badge/Accuracy-99%25-success?style=flat-square">
+    </td>
     <td align="center" style="background:#F0FFF7;border-radius:16px;padding:10px 8px;">
       <a href="https://github.com/avantika1036/EcoTrade" target="_blank"><img src="https://img.icons8.com/color/48/000000/leaf.png"/></a>
       <br>
@@ -105,10 +116,12 @@
 ## 🏅 Achievements
 
 - 🥇 **Google TalentSprint Women Engineers Scholar** (top 0.1%)
-- 🏆 **Smart India Hackathon Finalist** — built AI-powered career recommender
-- 🌍 **SheFi Scholar** — blockchain & DeFi global cohort
-- 👩‍🏫 **GDSC Lead** — mentored 100+ students, led workshops
-- 🤝 **IEEE UIET** — organized events & boosted engagement
+- 👩‍💻 **Codess.Cafe Mentee** — selected from 2000+ women for mentorship  
+- 🥉 **CHASCON National Conference — 3rd Prize (Oral Presentation)** for AI-based research work  
+- 🏆 **Smart India Hackathon Finalist** — built AI-powered career recommender  
+- 🌍 **SheFi Scholar** — blockchain & DeFi global cohort  
+- 👩‍🏫 **GDSC Lead** — mentored 100+ students, led workshops  
+- 🤝 **IEEE UIET** — organized tech events & boosted engagement    
 
 ---
 
