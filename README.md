@@ -87,7 +87,7 @@
     <td align="center" style="background:#F0FFF7;border-radius:16px;padding:10px 8px;">
       <a href="https://github.com/avantika1036/EcoTrade" target="_blank"><img src="https://img.icons8.com/color/48/000000/leaf.png"/></a>
       <br>
-      <b><a href="https://github.com/avantika1036/EcoTrade" target="_blank">EcoTrade 🌱</a></b>
+      <b><a href="https://github.com/avantika1036/Solution-Challenge-2025.git" target="_blank">EcoTrade 🌱</a></b>
       <br>
       <i>Sustainable E-commerce Platform</i>
       <br>
