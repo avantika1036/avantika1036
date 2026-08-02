@@ -150,11 +150,20 @@
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:er.avantikapandey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-er.avantikapandey%40gmail.com-D44638?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/avantika-pandey-4430512b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Avantika%20Pandey-0A66C2?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://github.com/avantika1036" target="_blank"><img src="https://img.shields.io/badge/GitHub-avantika1036-27ae60?logo=github&style=for-the-badge" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0ED2F7?style=for-the-badge" /></a>
+  <a href="mailto:er.avantikapandey@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-er.avantikapandey%40gmail.com-D44638?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/avantika-pandey-4430512b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Avantika%20Pandey-0A66C2?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/avantika1036" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-avantika1036-27ae60?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://avantikapandey.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-avantikapandey.vercel.app-0ED2F7?style=for-the-badge" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9C%A8-Code%20with%20heart.%20Collaborate%20with%20joy.%20Create%20for%20impact.-FF69B4?style=for-the-badge" />
